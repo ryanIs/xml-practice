@@ -1,0 +1,11 @@
+XML Practice
+
+Goal: Create clean interface, which displays careers of people. Each character will
+      show individual details about their lives. age, date, birth location, job experience
+      etc. Display it in a unique, but neat fashion at 60.00 fps.
+
+do:
+
+later:
+
+think:
